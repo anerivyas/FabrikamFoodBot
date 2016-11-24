@@ -1,0 +1,48 @@
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Bot Application1.dll.config
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Bot Application1.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Bot Application1.pdb
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Autofac.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Chronic.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Bot.Builder.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Bot.Connector.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Rest.ClientRuntime.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Configuration.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Newtonsoft.Json.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.IdentityModel.Tokens.Jwt.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Formatting.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Web.Http.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Web.Http.WebHost.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Autofac.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Bot.Builder.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Bot.Connector.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.Rest.ClientRuntime.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Configuration.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Newtonsoft.Json.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.IdentityModel.Tokens.Jwt.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Formatting.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Web.Http.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Web.Http.WebHost.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\en\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\es\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\obj\Debug\FabrikamFoodBot.csprojResolveAssemblyReference.cache
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\obj\Debug\Bot Application1.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\obj\Debug\Bot Application1.pdb
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Mobile.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Extensions.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Primitives.dll
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Mobile.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Extensions.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\bin\System.Net.Http.Primitives.xml
+\\files.auckland.ac.nz\myhome\documents\visual studio 2015\Projects\FabrikamFoodBot\FabrikamFoodBot\obj\Debug\FabrikamFoodBot.csproj.App.config
